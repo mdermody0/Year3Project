@@ -181,6 +181,12 @@ a.link:hover{
     padding-top: 7%;
 }
 
+.image-set-3
+{
+    position: relative;
+    padding-left: 40%;
+}
+
   .backstory-1
 {
     grid-column: 3;
